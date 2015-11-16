@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Codeboy抢红包</string>
+    <string name="app_name">康哥抢红包</string>
     <string name="accessibility_description">启动抢红包服务</string>
+    <string name="toast_main">找到康哥抢红包，然后开启服务即可</string>
 </resources>
